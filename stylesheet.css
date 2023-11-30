@@ -153,8 +153,8 @@ section.profile_image_description{
 }
 
 img{
-	max-width: 90%;
-	border-radius: 500%;
+	max-width: 100%;
+	border-radius: 700%;
 	box-shadow: 1% 1% 1% rgb(128 128 128 / 25%);
 	align-self: center;
 }
